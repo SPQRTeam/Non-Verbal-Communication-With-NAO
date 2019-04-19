@@ -1,6 +1,8 @@
 # On-Field-Gesture-based-Robot-to-robot-Communication-with-NAO-Soccer-Players
 Non-verbal communication is often used by soccer players during matches to exchange information with teammates. Among the possible forms of gesture-based interaction, hand signals are the most used. In this paper, we present a deep learning method for real-time recognition of robot to robot hand signals exchanged during a soccer game. A library for estimating body, face, hands, and foot position has been trained using simulated data and tested on real images.  Quantitative experiments carried out on a NAO V6 robot demonstrate the effectiveness of the proposed approach. Source code and data used in this work are made publicly available for the community.
 
+![inferent_result](./Samples/NaoFirst.png)
+
 # TF-Pose
 
 'Openpose', human pose estimation algorithm, have been implemented using Tensorflow. It also provides several variants that have some changes to the network structure for real-time processing on the CPU or low-power embedded devices.
@@ -73,6 +75,11 @@ The image flag MUST be relative to the src folder with no "~", i.e:
 ```
 
 Then you will see the screen as below with pafmap, heatmap and result.
+![inferent_result](./Samples/Nao1.png)
+![inferent_result](./Samples/Nao2.png)
+![inferent_result](./Samples/Nao3.png)
+![inferent_result](./Samples/nao4.png)
+![inferent_result](./Samples/Nao5.png)
 
 
 
