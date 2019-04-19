@@ -8,7 +8,7 @@ Non-verbal communication is often used by soccer players during matches to excha
 'Openpose', human pose estimation algorithm, have been implemented using Tensorflow. It also provides several variants that have some changes to the network structure for real-time processing on the CPU or low-power embedded devices.
 
 ## Installation
-To install the code you have to download the TF-Pose or Open-Pose library to use our script at this link :
+To install the code you have to download the TF-Pose or Open-Pose library at this link :
 - https://github.com/ildoonet/tf-pose-estimation
 - https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
