@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./Samples/Logo.png", width="300">
+    <img src="./Samples/Logo.png", width="150">
 </div>
 
 |                  |`Default Config`  |`CUDA (+Python)`  |`CPU (+Python)`   |`OpenCL (+Python)`| `Debug`          | `Unity`          |
