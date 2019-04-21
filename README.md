@@ -84,10 +84,9 @@ The image flag MUST be relative to the src folder with no "~", i.e:
 ```
 
 Then you will see the screen as below with pafmap, heatmap and result.
-![inferent_result](./Samples/Nao1.png)
-![inferent_result](./Samples/Nao2.png)
-![inferent_result](./Samples/nao4.png)
-![inferent_result](./Samples/Nao5.png)
+![inferent_result](./Samples/Nao0.png)
+![inferent_result](./Samples/Nao16.png)
+![inferent_result](./Samples/nao44.png)
 
 ## References
 
